@@ -1,0 +1,10 @@
+{
+  "name": "librairie-du-temple-marais-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "test": "node --test scripts/check.mjs"
+  }
+}
